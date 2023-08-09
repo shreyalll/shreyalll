@@ -1,5 +1,5 @@
 
-![logo] (https://github.com/shreyalll/shreyalll/blob/main/Shreya%20tiwari%20(1).png)
+![logo](https://github.com/shreyalll/shreyalll/blob/main/Shreya%20tiwari%20(1).png)
 <h1 align="center">Hi 👋, I'm SHREYA TIWARI</h1>
 <h3 align="center">A passionate Data Science enthusiast</h3>
 <img align ="right" alt="Data Visulisaition",width="400",src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=740">
